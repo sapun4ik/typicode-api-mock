@@ -1,10 +1,16 @@
 {
-    "profile": {
-      "nickname": "artom.io",
-      "name": "Артем Топов",
-      "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
-      "avatarUrl": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
-    },
+  "profile": {
+    "nickname": "artom.io",
+    "name": "Артем Топов",
+    "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
+    "avatarUrl": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
+  },
+  "profile_two": {
+    "nickname": "artom.io",
+    "name": "Артем Топов",
+    "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
+    "avatarUrl": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
+  },
     "story-calendar": 
       [
         {
