@@ -13,5 +13,24 @@
       "name": "Артем Топов",
       "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
       "avatarUrl": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
-    }
+    },
+    "story-calendar": 
+      [
+        {
+          "date": "2022-02-05",
+          "emotion": "happy" ,
+          "items": [
+            { 
+              "id": 1, 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            }
+          ]
+        }
+      ]
+     
 }
