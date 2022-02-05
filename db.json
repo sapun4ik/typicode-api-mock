@@ -37,7 +37,7 @@
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
-              "cover":"https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
+              "cover":"https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
               "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
               "duration":"1:20"
             }
@@ -52,7 +52,7 @@
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
-              "cover":"https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
+              "cover":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
               "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
               "duration":"1:20"
             }
@@ -67,7 +67,52 @@
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
-              "cover":"https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
+              "cover":"https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            },
+            { 
+              "id": "1", 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://tinypng.com/images/social/website.jpg",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            },
+            { 
+              "id": "1", 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2yuHuE_KiWXOfDSMKzBFbAFiolnyJ9gtbQ&usqp=CAU",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            },
+            { 
+              "id": "1", 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            },
+            { 
+              "id": "1", 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://tinypng.com/images/social/website.jpg",
+              "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+              "duration":"1:20"
+            },
+            { 
+              "id": "1", 
+              "emotion": "happy" ,
+              "title": "23:34" ,
+              "subtitle": "11 прослушиваний",
+              "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2yuHuE_KiWXOfDSMKzBFbAFiolnyJ9gtbQ&usqp=CAU",
               "story":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
               "duration":"1:20"
             }
