@@ -21,7 +21,7 @@
           "emotion": "happy" ,
           "items": [
             { 
-              "id": 1, 
+              "id": "1", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
