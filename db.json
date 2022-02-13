@@ -5,7 +5,7 @@
     "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
     "avatarUrl": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
   },
-  "profile_ls": {
+  "profile_nd": {
     "nickname": "artom.io",
     "name": "Артем Топов",
     "description": "Из чего сделан мир? Атомы, лептоны, кварки и другие загадочные частицы)",
@@ -33,7 +33,7 @@
           "emotion": "happy" ,
           "items": [
             { 
-              "guid": "1", 
+              "guid": "12", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -48,7 +48,7 @@
           "emotion": "happy" ,
           "items": [
             { 
-              "guid": "1", 
+              "guid": "13", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -63,7 +63,7 @@
           "emotion": "happy" ,
           "items": [
             { 
-              "guid": "1", 
+              "guid": "14", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -72,7 +72,7 @@
               "duration":120
             },
             { 
-              "guid": "1", 
+              "guid": "15", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -81,7 +81,7 @@
               "duration":120
             },
             { 
-              "guid": "1", 
+              "guid": "16", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -90,7 +90,7 @@
               "duration":120
             },
             { 
-              "guid": "1", 
+              "guid": "17", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -99,7 +99,7 @@
               "duration":120
             },
             { 
-              "guid": "1", 
+              "guid": "18", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
@@ -108,7 +108,7 @@
               "duration":120
             },
             { 
-              "guid": "1", 
+              "guid": "19", 
               "emotion": "happy" ,
               "title": "23:34" ,
               "subtitle": "11 прослушиваний",
